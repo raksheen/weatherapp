@@ -1,10 +1,10 @@
-# HOMEWORK: Weather App!!!
+# Lab: Weather App!!!
 
 ![nedstark](./assets/nedstark.jpg)
 
 Wait a second... I think I've heard that before...
 
-Yup! You've built a weather app already, BUT tonight you will rebuild it using REACT! 😉
+Yup! You've built a weather app already, BUT today you will rebuild it using REACT! 😉
 
 ### A quick reminder of how your app should look:
 
@@ -20,7 +20,7 @@ Yup! You've built a weather app already, BUT tonight you will rebuild it using R
 
 ### Open Weather API
 
-Hopefully you remember working with the [Open Weather Map API](http://openweathermap.org/api). If you don't, check out the [original readme](https://git.generalassemb.ly/wdi-nyc-thundercats/HW_U02_D02_SQL_APIs/tree/master/weather).
+Hopefully you remember working with the [Open Weather Map API](http://openweathermap.org/api). If you don't, read the docs!
 
 
 ## 🚀 Completion looks like:
@@ -32,7 +32,6 @@ Your app has multiple components and does the following things:
 - Parses the information that comes back from the API call
 - Renders that information on the page
 - **BONUS**: Include the sunrise and sunset times (hint: maybe [Moment.js](https://momentjs.com/) will be helpful!) and some information about humidity, atmospheric pressure, etc.
-- **BONUS**: Upload your completed weather app to BitBalloon.
 
 Things to think about:
 
@@ -41,9 +40,6 @@ Things to think about:
 - What way will you make the API call?
 
 
-## 🚀 Your homework submission should include:
+## 🚀 Your Lab submission should include:
 
 - A pull request created on _this repo_
-- Completion, comfort, wins, losses, questions... you know the drill.
-
-## This homework is due 🚨 11PM ON THURSDAY NIGHT 🚨
