@@ -1,0 +1,37 @@
+* {
+  /*background: url("https://images.unsplash.com/photo-1503441669932-76d3a4625eb9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e3e1502480cf91a8fcac6bdafac5f627&auto=format&fit=crop&w=994&q=80");*/
+  /*background: url("clouds.jpg");*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  background: rgb(169, 193, 205);
+  font-family: "Bitter", serif;
+}
+.info {
+  text-align: center;
+  z-index: 9999;
+  margin-top: 20px;
+}
+.image {
+  background: url("https://media.giphy.com/media/Pp9W9tuVF5NwQ/giphy.gif");
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
